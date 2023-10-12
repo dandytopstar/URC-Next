@@ -45,6 +45,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 #### Contact me
  - Skype: live:.cid.aeacf9ca33be6570
- - Telegram: https://t.me/miraclePapoy
- - Discord: https://discordapp.com/users/1099883890119802901
+ - Telegram: https://t.me/DandyStar
 ####
